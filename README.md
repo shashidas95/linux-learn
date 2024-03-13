@@ -1,2 +1,5 @@
 # linux-learn
-``` sudo apt install -y build-essentiallinux-headers-$(uname -r)```
+install essential tools
+``` sudo apt install -y build-essential linux-headers-$(uname -r)```
+
+
