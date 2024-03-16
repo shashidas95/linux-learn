@@ -14,3 +14,5 @@ It will solve your problem.
 ``` w ```
 # briefly show the ip address
 ``` ip --brief addr show ```
+- in linux terminal paste option is
+  ``` ctrl + shift v ```
