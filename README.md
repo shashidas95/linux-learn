@@ -10,10 +10,10 @@
 ``` sudo apt-get install openssh-client openssh-server ```
 It will solve your problem.
 
--  To find active user 
+# To find active user 
 ``` w ```
--  briefly show the ip address
+# briefly show the ip address
 ``` ip --brief addr show ```
-- in linux terminal paste option is
+# in linux terminal paste option is
   ``` ctrl + shift v ```
-- sudo -i will give you a root shell.
+# sudo -i will give you a root shell.
