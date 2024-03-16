@@ -10,3 +10,7 @@ install essential tools
 ``` sudo apt-get install openssh-client openssh-server ```
 It will solve your problem.
 
+# To find active user 
+``` w ```
+# briefly show the ip address
+``` ip --brief addr show ```
