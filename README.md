@@ -16,3 +16,4 @@ It will solve your problem.
 ``` ip --brief addr show ```
 - in linux terminal paste option is
   ``` ctrl + shift v ```
+- sudo -i will give you a root shell.
