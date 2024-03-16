@@ -1,7 +1,7 @@
 # linux-learn
 - install essential tools
 ``` sudo apt install -y build-essential linux-headers-$(uname -r)```
-- if ssh: connect to host localhost port 22: Connection refused
+# if ssh: connect to host localhost port 22: Connection refused
 -  Remove SSH with the following command:
 
 ``` sudo apt-get remove openssh-client openssh-server ```
