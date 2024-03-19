@@ -1,4 +1,4 @@
-Terminal shortcuts!
+# Terminal shortcuts!
 
 You have no idea how helpful they are until you know how to use them to make your terminal sessions super productive.
 
@@ -6,10 +6,10 @@ So in this tutorial, I will walk you through the top terminal shortcuts with exa
 
 Before I explain all the shortcuts individually, here's a cheat sheet of what I'll be discussing in this tutorial:
 
-Shortcut	Description
-Ctrl + A	Move to the start of the line.
-Ctrl + E	Move to the end of the line.
-Ctrl + U	Delete from the cursor to the start of the line.
+# Shortcut	Description
+- Ctrl + A	Move to the start of the line.
+- Ctrl + E	Move to the end of the line.
+- Ctrl + U	Delete from the cursor to the start of the line.
 Ctrl + K	Delete from the cursor to the end of the line.
 Ctrl + W	Delete the word before the cursor.
 Ctrl + L	Clear the terminal screen.
