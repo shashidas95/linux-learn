@@ -9,7 +9,8 @@ Before I explain all the shortcuts individually, here's a cheat sheet of what I'
 # Shortcut	Description
 - ```bash
    Ctrl + A
-  ```	Move to the start of the line.
+  ```
+  Move to the start of the line.
 - ```Ctrl + E```	Move to the end of the line.
 - ```Ctrl + U```	Delete from the cursor to the start of the line.
 - ```Ctrl + K```	Delete from the cursor to the end of the line.
