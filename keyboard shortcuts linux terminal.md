@@ -24,29 +24,29 @@ Before I explain all the shortcuts individually, here's a cheat sheet of what I'
   ```
   Delete from the cursor to the end of the line.
 - ```bash
- Ctrl + W
- ```
+  Ctrl + W
+  ```
 Delete the word before the cursor.
 - ```bash
- Ctrl + L
-```
+  Ctrl + L
+  ```
 Clear the terminal screen.
 - ```bash
- Ctrl + C
-```
+  Ctrl + C
+  ```
 Stop the current process/command.
--```bash
- Ctrl + D
-```
+- ```bash
+  Ctrl + D
+  ```
 Log out or exit the terminal.
 - ```bash
   Ctrl + Z
   	```
-  Pause the current process (can be resumed).
+Pause the current process (can be resumed).
 - ```bash
   Ctrl + R
   ```
-Search command history (backward search).
+ Search command history (backward search).
 - ```Up Arrow```	Show the previous command (from the command history).
 - ```Down Arrow```	Show the next command (from the command history).
 - ```bash
