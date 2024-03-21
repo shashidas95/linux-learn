@@ -7,11 +7,11 @@ So in this tutorial, I will walk you through the top terminal shortcuts with exa
 Before I explain all the shortcuts individually, here's a cheat sheet of what I'll be discussing in this tutorial:
 
 # Shortcut	Description
-- ```bash
+ ```bash
    Ctrl + A
   ```
   Move to the start of the line.
-- ```bash
+ ```bash
   Ctrl + E
   ```
   Move to the end of the line.
