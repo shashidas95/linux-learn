@@ -10,12 +10,16 @@ Optionally, set a password for the key pair
 NOTE: If you don't provide a password, anyone with the key and access to the target host can connect using the key. Proceed with caution
 Continue with the following command
 # output the public key
-cat ~/.ssh/id_rsa.pub
+```bash
+  cat ~/.ssh/id_rsa.pub
+```
 Copy the output ssh-rsa public key to the clipboard
 Log into the target Linux machine
 Run the following command in a terminal window
 # create .ssh directory
+```
 mkdir ~/.ssh -p
+```
 # edit the authorized_keys file
 nano ~/.ssh/authorized_keys
 Paste the copied public key to the bottom of the file
