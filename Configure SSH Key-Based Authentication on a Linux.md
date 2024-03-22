@@ -1,4 +1,4 @@
-## Connecting from a Linux Host
+#### Connecting from a Linux Host
 Log into the source Linux host
 Run the following command in a terminal window
 ## generate a new ssh key pair
